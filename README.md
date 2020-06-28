@@ -1,5 +1,5 @@
 # StepPIM
-StepPim - the new way to share knowledge and practice
+http://steppim.com/ - the new way to share knowledge and practice
 
 * Learn the best way - with practice !
 * Write your own content.
